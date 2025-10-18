@@ -9,7 +9,7 @@ on:
     branches:
       - main
     paths:
-      - 'galata-ai-config.json'
+      - 'galata_ai-config.json'
       - '.github/workflows/galata.yml'
 
 jobs:
