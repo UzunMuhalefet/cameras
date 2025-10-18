@@ -236,7 +236,7 @@ def process_all_streams(config_file='streams_config.json', delay=2):
 
 if __name__ == '__main__':
     # Process all streams
-    result = process_all_streams(config_file='streams_config.json', delay=2)
+    result = process_all_streams(config_file='galata_ai-config.json', delay=2)
     
     if result:
         print("\n" + "=" * 80)
