@@ -11,6 +11,9 @@ on:
     paths:
       - 'galata_ai-config.json'
       - '.github/workflows/galata.yml'
+      
+permissions:
+  contents: write
 
 jobs:
   update-streams:
@@ -21,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,6 +47,9 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
+          # Pull latest changes first
+          git pull origin main --rebase
           
           # Add all M3U8 files
           git add TR/
