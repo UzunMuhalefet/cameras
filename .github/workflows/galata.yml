@@ -3,7 +3,7 @@ name: Update Stream M3U8 Files
 on:
   schedule:
     # Run every 6 hours
-    - cron: '0 */2 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger
   push:
     branches:
