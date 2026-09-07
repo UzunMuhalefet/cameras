@@ -2,10 +2,10 @@
 #EXT-X-VERSION:4
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:12435
+#EXT-X-MEDIA-SEQUENCE:1729
+#EXTINF:2.3,
+https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/06/40-07_1729.ts
 #EXTINF:2,
-https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/01/21-38_12435.ts
+https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/06/40-09_1730.ts
 #EXTINF:2,
-https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/01/21-40_12436.ts
-#EXTINF:2.33,
-https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/01/21-42_12437.ts
+https://cdn-k01.galata.ai/static/UVdvelVTdFVaMngwYTBwdlZrcGxUbkJFUmsxaFJFNVNWR2RRVVdsaWNpczVjbWs0V2pKRk0xQmFNRDA9/2026-09-07/06/40-11_1731.ts
