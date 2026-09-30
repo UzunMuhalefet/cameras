@@ -2,10 +2,10 @@
 #EXT-X-VERSION:4
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:5414
-#EXTINF:2.01,
-https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/00/21-02_5414.ts
-#EXTINF:2.02,
-https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/00/21-04_5415.ts
+#EXT-X-MEDIA-SEQUENCE:4257
+#EXTINF:2.03,
+https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/05/56-01_4257.ts
 #EXTINF:2,
-https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/00/21-06_5416.ts
+https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/05/56-03_4258.ts
+#EXTINF:1.99,
+https://cdn-103.galata.ai/live/e801a0e0f502433395b3ee8cae7be911/2026-09-30/05/56-05_4259.ts
